@@ -1,0 +1,3 @@
+# learning_process
+在学习神经网络过程中的一些有意思的小tips
+杂乱且持续更新ing...
